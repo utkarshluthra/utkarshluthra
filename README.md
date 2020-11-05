@@ -1,3 +1,6 @@
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
+
 # Hi!!👋 Welcome to My Github Profile
 
 ### My Name is Utkarsh Luthra and I am a CS student here to contribute, learn, and showcase my projects, (atleast some of them), along with becoming a part of this amazing community of programmers.
