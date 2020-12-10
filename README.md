@@ -42,7 +42,7 @@ In 2019, I started learning Java for Android Development. It was to keen interes
 * *LinkedIn:*   [@UtkarshLuthra](https://www.linkedin.com/in/utkarshluthra)
 * *Instagram*:  [@utkarsh.luthra](https://www.instagram.com/utkarsh.luthra)
 * *Twitter:*    [@LuthraUtkarsh](https://www.twitter.com/LuthraUtkarsh)
-* *Website:*    [utkarsh.clusterservice.in](https://utkarsh.clusterservice.in)
+* *Website:*    [utkarsh.clusterservice.in](http://utkarsh.clusterservice.in)
 
 
 ## I will be happy to help with anything in my skill set.
