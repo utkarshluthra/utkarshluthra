@@ -1,4 +1,4 @@
-![Cover](/Cover.png)
+![Cover](/CoverPhoto.jpg)
 # Hi!!👋 Welcome to My Github Profile
 
 ### My Name is Utkarsh Luthra and I am a CS student here to contribute, learn, and showcase my projects, (atleast some of them), along with becoming a part of this amazing community of programmers.
@@ -42,6 +42,7 @@ In 2019, I started learning Java for Android Development. It was to keen interes
 * *LinkedIn:*   [@UtkarshLuthra](https://www.linkedin.com/in/utkarshluthra)
 * *Instagram*:  [@utkarsh.luthra](https://www.instagram.com/utkarsh.luthra)
 * *Twitter:*    [@LuthraUtkarsh](https://www.twitter.com/LuthraUtkarsh)
+* *Website:*    [utkarsh.clusterservice.in](https://utkarsh.clusterservice.in)
 
 
 ## I will be happy to help with anything in my skill set.
