@@ -49,4 +49,4 @@ It was in December 2020 that I was introduced to Competitive Programming and hav
 * *Medium:*     [Utkarsh Luthra](https://utkarshluthra.medium.com)
 
 
-## I will be happy to help with anything in my skill set.
+## Connect with me on [Discord](https://www.discord.com/utkarshluthra#5360). I will be happy to help with anything in my skill set.
