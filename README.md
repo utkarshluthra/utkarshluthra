@@ -13,7 +13,7 @@ Back in 2019, I also learned Blender and will be uploading the projects created 
 
 It was in December 2020 that I was introduced to Competitive Programming and have started recently and hope to learn a lot in this domain too.
 
-You can check out my skills and more by clicking [here](httsp://utkarshluthra.live/About.html/Skills)
+You can check out my skills and more by clicking [here](httsp://utkarshluthra.live/About.html#Skills)
 ## Contact Me:
 * *Website:*    [utkarshluthra.live](https://utkarshluthra.live)
 * *Email:*      [utkarshluthra@gmail.com](mailto:utkarshluthra@gmail.com)
