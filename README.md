@@ -11,6 +11,8 @@ In 2020, I started learning C++, Java and then further, I worked on several thin
 
 Back in 2019, I also practised on Blender for 3D and Animations and will be uploading the projects created using that here as well along with a proper step-by-step markdown to help the beginners in the community on both GitHub and my portfolio. Further, in design tools, I learned Adobe XD for website Design, Photoshop for image manipulation, Illustrator for vector design and illustration.
 
+In 2021, I have focused on learning the MERN stack as it interests me and expands my knowledge in Web Develepment. I have also been exploring Flutter and Dart from the past few months and wish to advance into cross platform development too soon.
+
 It is very recently that I have been introduced to Competitive Programming and wish to explore these fields too.
 
 You can check out my skills and more by clicking [here](httsp://utkarshluthra.live/About.html#Skills)
