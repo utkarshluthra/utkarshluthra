@@ -1,7 +1,7 @@
 ![Cover](/CoverPhoto.png)
 # Welcome to My Github Profile
 
-### My Name is Utkarsh Luthra and I am a Computer Science student here to contribute, learn, and showcase my projects, along with becoming a part of this amazing community of programmers.
+### I am Utkarsh Luthra and I am a Computer Science student here to contribute, learn, and showcase my projects, along with becoming a part of this amazing community of programmers.
 
 ## My Programming Journey (_2016-2021_)
 
