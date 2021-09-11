@@ -1,4 +1,4 @@
-![Cover](/CoverPhoto.png)
+![Cover](/Utkarsh\ Luthra.jpg)
 # Welcome to My Github Profile
 
 ### I am Utkarsh Luthra, a Computer Science student here to contribute, learn, and showcase my projects, along with becoming a part of this amazing community of programmers.
