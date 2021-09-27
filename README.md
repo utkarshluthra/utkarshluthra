@@ -1,7 +1,7 @@
 ![Cover](https://github.com/utkarshluthra/utkarshluthra/blob/main/Utkarsh%20Luthra.jpg)
 # Welcome to My Github Profile
 
-### I am Utkarsh Luthra, a Computer Science student here to contribute, learn, and showcase my projects, along with becoming a part of this amazing community of programmers.
+### I am Utkarsh Luthra, a Computer Science student and a 3 star (1689) @ CodeChef. I am here to contribute, learn, and showcase my projects, along with becoming a part of this amazing community of developers.
 
 ## My Programming Journey (_2016-2021_)
 
