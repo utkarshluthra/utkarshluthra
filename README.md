@@ -24,13 +24,13 @@
 
 I started coding in the 2016 while trying to figure out how websites worked. Started with HTML, CSS, and later moved towards JavaScript and further with Bootstrap and created several small projects using the trio of Web Development which can be seen in my [portfolio site](https://utkarshluthra.live) and then moved on to learning Dynamic Web Development for which I started to learn Python in 2019-20 and later, Django, along with Database Management. Further, I also studied the various Data Structures and Algorithms in Programming and I have been regularly learning about DSA..
 
-In 2020, I started learning C++, Java and then further, I worked on several thing related to Android, .Net, ReactJS, etc. The reason I learned C++ was to have understand the memory allocation and have a better understanding of Object Oriented Programming. While I learned Java to enhance my knowledge of the various programming languages and Android Development in specific. But further, just to explore Android development in more depth, I also learned Kotlin.
+In 2020, given the pandemic, I started learning C++, Java and then further, I worked on several thing related to Android, .Net, ReactJS, etc. The reason I learned C++ was to understand the memory allocation and have a better understanding of Object Oriented Programming. While I learned Java to enhance my knowledge of the various programming languages and to learn about Android Development in specific. But further, to explore Android development in more depth, I also learned Kotlin.
 
-Back in 2019, I also practised on Blender for 3D and Animations and will be uploading the projects created using that here as well along with a proper step-by-step markdown to help the beginners in the community on both GitHub and my portfolio. Further, in design tools, I learned Adobe XD for website Design, Photoshop for image manipulation, Illustrator for vector design and illustration.
+Using the extra time due to the Lockdown due to CoViD-19, I also practised on Blender for 3D and Animations and will be uploading the projects created using that here as well along with a proper step-by-step markdown to help the beginners in the community on both GitHub and my portfolio. Further, in design tools, I learned Adobe XD for website Design, Photoshop for image manipulation, Illustrator for vector design and illustration.
 
-In 2021, I have focused on learning the MERN stack as it interests me and expands my knowledge in Web Develepment. I have also been exploring Flutter and Dart from the past few months and wish to advance into cross platform development too soon.
+In 2021, I have focused on learning the MERN stack as it interests me and am trying to expand my knowledge in Web Develepment. I have also been exploring Flutter and Dart from the past few months and wish to advance into cross platform development too soon.
 
-It is very recently that I have been introduced to Competitive Programming and wish to explore these fields too.
+In August 2021, I also started my Competitive Programming journey on CodeChef ([ID](https://www.codechef.com/utkarsh_luthra)) and in October, I started solving questions on Codeforces ([ID](https://www.codeforces.com/utkarshluthra)
 
 You can check out my skills and more by clicking [here](httsp://utkarshluthra.live/About.html#Skills)
 
@@ -96,4 +96,8 @@ You can check out my skills and more by clicking [here](httsp://utkarshluthra.li
 <a href="https://medium.com/@utkarshluthra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@utkarshluthra" height="30" width="40" /></a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=utkarshluthra&show_icons=true&locale=en&theme=dark" alt="utkarshluthra" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=utkarshluthra&show_icons=true&locale=en&theme=dark" alt="utkarshluthra" /><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=utkarshluthra&theme=dark" alt="utkarshluthra" /></p>
+
+---
+
+![Utkarsh's github contribution graph](https://activity-graph.herokuapp.com/graph?username=utkarshluthra&bg_color=00000000&point=00FF00)
