@@ -1,9 +1,15 @@
+
+<div align="center">
+  <h1 align="center">Utkarsh Luthra</h1>
+  Web Developement | Competitive Programming | Content Writing<br>
+  Bachelor of Engineering - CSE @Chandigarh University<br>
+
+
 ![Cover](https://github.com/utkarshluthra/utkarshluthra/blob/main/Utkarsh%20Luthra.jpg)
-# Welcome to My Github Profile
+  
+</div>
 
-### I am Utkarsh Luthra, a fresher at Chandigarh University pursuing BE CSE and have a 3 star (1689) rating @ CodeChef. I am here to contribute, learn, and showcase my projects, along with becoming a part of this amazing community of developers.
-
-## My Programming Journey (_2016-2021_)
+### My Programming Journey (_2016-2021_)
 
 I started coding in the 2016 while trying to figure out how websites worked. Started with HTML, CSS, and later moved towards JavaScript and further with Bootstrap and created several small projects using the trio of Web Development which can be seen in my [portfolio site](https://utkarshluthra.live) and then moved on to learning Dynamic Web Development for which I started to learn Python in 2019-20 and later, Django, along with Database Management. Further, I also studied the various Data Structures and Algorithms in Programming and I have been regularly learning about DSA..
 
@@ -16,7 +22,7 @@ In 2021, I have focused on learning the MERN stack as it interests me and expand
 It is very recently that I have been introduced to Competitive Programming and wish to explore these fields too.
 
 You can check out my skills and more by clicking [here](httsp://utkarshluthra.live/About.html#Skills)
-## Contact Me:
+### Contact Me:
 * *Website:*    [utkarshluthra.live](https://utkarshluthra.live)
 * *Email:*      [utkarshluthra@gmail.com](mailto:utkarshluthra@gmail.com)
 * *LinkedIn:*   [@UtkarshLuthra](https://www.linkedin.com/in/utkarshluthra)
