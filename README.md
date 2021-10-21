@@ -8,15 +8,17 @@
   Bachelor of Engineering - CSE @Chandigarh University<br>
 
 </div>
+<br>
 <div align="center">
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=utkarshluthra&theme=onedark&rank=SSS,SS,S,A,AA,AAA,B,C,D&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+   <a href="https://www.twitter.com/LuthraUtkarsh"><img  src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></img></a>
+ <a href="https://www.linkedin.com/in/utkarshluthra"><img  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
+ <a href="https://www.instagram.com/utkarsh.luthra"><img  src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></img></a>
 
+  <br>
 </div>
-<p align="left"> <a href="https://twitter.com/luthrautkarsh" target="blank"><img src="https://img.shields.io/twitter/follow/luthrautkarsh?logo=twitter&style=for-the-badge" alt="luthrautkarsh" /></a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=utkarshluthra&show_icons=true&locale=en&layout=compact" alt="utkarshluthra" /></p>
-
 
 ### My Programming Journey (_2016-2021_)
 
@@ -31,6 +33,12 @@ In 2021, I have focused on learning the MERN stack as it interests me and expand
 It is very recently that I have been introduced to Competitive Programming and wish to explore these fields too.
 
 You can check out my skills and more by clicking [here](httsp://utkarshluthra.live/About.html#Skills)
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=utkarshluthra&theme=onedark&rank=SSS,SS,S,A,AA,AAA,B,C,D&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 
 ---
 
@@ -88,4 +96,4 @@ You can check out my skills and more by clicking [here](httsp://utkarshluthra.li
 <a href="https://medium.com/@utkarshluthra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@utkarshluthra" height="30" width="40" /></a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=utkarshluthra&show_icons=true&locale=en" alt="utkarshluthra" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=utkarshluthra&show_icons=true&locale=en&theme=dark" alt="utkarshluthra" /></p>
