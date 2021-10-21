@@ -1,7 +1,7 @@
 
 <div align="center">
   
-  ![Cover](https://github.com/utkarshluthra/utkarshluthra/blob/main/Utkarsh%20Luthra.jpg)
+  ![Cover](https://github.com/utkarshluthra/utkarshluthra/blob/main/Utkarsh%20Luthra%20Linkedin%20Banner.png)
   
   <h1 align="center">Utkarsh Luthra</h1>
   Web Developement | Competitive Programming | Content Writing<br>
