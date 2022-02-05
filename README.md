@@ -20,7 +20,7 @@
 
 ### My Programming Journey (_2016-2021_)
 
-I started coding in the 2016 while trying to figure out how websites worked. Started with HTML, CSS, and later moved towards JavaScript and further with Bootstrap and created several small projects using the trio of Web Development which can be seen in my [portfolio site](https://utkarshluthra.live) and then moved on to learning Dynamic Web Development for which I started to learn Python in 2019-20 and later, Django, along with Database Management. Further, I also studied the various Data Structures and Algorithms in Programming and I have been regularly learning about DSA..
+I started coding in the 2016 while trying to figure out how websites worked. Started with HTML, CSS, and later moved towards JavaScript and further with Bootstrap and created several small projects using the trio of Web Development which can be seen in my [portfolio site](bit.ly/UtkarshLuthra) and then moved on to learning Dynamic Web Development for which I started to learn Python in 2019-20 and later, Django, along with Database Management. Further, I also studied the various Data Structures and Algorithms in Programming and I have been regularly learning about DSA..
 
 In 2020, given the pandemic, I started learning C++, Java and then further, I worked on several thing related to Android, .Net, ReactJS, etc. The reason I learned C++ was to understand the memory allocation and have a better understanding of Object Oriented Programming. While I learned Java to enhance my knowledge of the various programming languages and to learn about Android Development in specific. But further, to explore Android development in more depth, I also learned Kotlin.
 
