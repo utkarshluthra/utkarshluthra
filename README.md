@@ -4,9 +4,9 @@
   ![Cover](https://github.com/utkarshluthra/utkarshluthra/blob/main/Utkarsh%20Luthra%20Linkedin%20Banner.png)
   
   <h1 align="center">Utkarsh Luthra</h1>
+  Founder & CEO @MedocHealth<br>
   Web Developer | Flutter Developer | Graphic Designer<br>
   Bachelor of Engineering - CSE <br>
-  Founder & CEO - Medoc <br>
 
 </div>
 <br>
